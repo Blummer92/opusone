@@ -13,7 +13,7 @@ post_date: 2018-04-06 10:02:41
 <div class="brz-section__content">
 <div class="brz-bg css-8265qr">
 <div class="brz-bg-media">
-<div class="brz-bg-image">[sg_popup id="3139" event="inherit"][/sg_popup]</div>
+<div class="brz-bg-image"></div>
 <div class="brz-bg-color"></div>
 </div>
 <div class="brz-bg-content">
