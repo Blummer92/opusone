@@ -11,10 +11,10 @@ post_date: 2018-04-06 10:02:41
 <section class="fw-main-row  auto  fw-section-position-back">
 			<div class="fw-container">
 		<div class="fw-row">
-	<div id="column-5b68b367e7e8e" class="fw-col-sm-12 tf-sh-8ce9b9339a62888ba514592d7855dfff">
+	<div id="column-5b68b380ea5f3" class="fw-col-sm-12 tf-sh-201a5a6f4659f92324629d83c0afaa92">
 	<div class="fw-wrap-col-inner clearfix  ">
 				<div class="fw-col-inner">
-			<div class="fw-text-box tf-sh-53e102c3c0142f4074c0b8fddb3ab01d ">
+			<div class="fw-text-box tf-sh-130c34fc68c50934ad94cdf32ac7f5aa ">
 	<div class="fw-text-inner">
 		<div class="brz-root__container brz-reset-all">
 <section id="zhpfhuvtaq" class="brz-section css-lfbrd7">
