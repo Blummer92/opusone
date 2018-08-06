@@ -8,13 +8,22 @@ permalink: http://opusonehair.com/
 published: true
 post_date: 2018-04-06 10:02:41
 ---
-<div class="brz-root__container brz-reset-all"><section id="zhpfhuvtaq" class="brz-section css-lfbrd7">
+<section class="fw-main-row  auto  fw-section-position-back">
+			<div class="fw-container">
+		<div class="fw-row">
+	<div id="column-5b68b367e7e8e" class="fw-col-sm-12 tf-sh-8ce9b9339a62888ba514592d7855dfff">
+	<div class="fw-wrap-col-inner clearfix  ">
+				<div class="fw-col-inner">
+			<div class="fw-text-box tf-sh-53e102c3c0142f4074c0b8fddb3ab01d ">
+	<div class="fw-text-inner">
+		<div class="brz-root__container brz-reset-all">
+<section id="zhpfhuvtaq" class="brz-section css-lfbrd7">
 <div class="brz-section__items">
 <div class="brz-section__content">
 <div class="brz-bg css-8265qr">
 <div class="brz-bg-media">
-<div class="brz-bg-image">[sg_popup id="3139" event="inherit"][/sg_popup]</div>
-<div class="brz-bg-color"></div>
+<div class="brz-bg-image"> </div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-container__wrap css-1a0jaqk">
@@ -22,26 +31,25 @@ post_date: 2018-04-06 10:02:41
 <div class="brz-row__container">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-i3a6sh">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-row css-1cad2o0">
 <div class="brz-columns css-19rf22h">
 <div class="brz-bg brz-d-xs-flex css-lqtvr5">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-wrapper css-6fvry1">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-1szh5xq">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-d-xs-flex css-1ob677i">
 <div class="brz-rich-text">
-<p class="brz-text-lg-right brz-tp-heading1"><span style="color: #ffffff;">Embrace your Beauty</span></p>
-
+<p class="brz-text-lg-right brz-tp-heading1"><span style="color: #ffffff">Embrace your Beauty</span></p>
 </div>
 </div>
 </div>
@@ -60,12 +68,13 @@ post_date: 2018-04-06 10:02:41
 </div>
 </div>
 </div>
-</section><section id="ltymlwfghx" class="brz-section css-lfbrd7">
+</section>
+<section id="ltymlwfghx" class="brz-section css-lfbrd7">
 <div class="brz-section__items">
 <div class="brz-section__content">
 <div class="brz-bg css-nfy532">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-container__wrap css-ho9erg">
@@ -73,12 +82,22 @@ post_date: 2018-04-06 10:02:41
 <div class="brz-wrapper css-6fvry1">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-1szh5xq">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-d-xs-flex css-q2hqk1">
 <div class="brz-wp-shortcode css-1erx88j">
-<div>[product_categories number="4" orderby="slug" order="ASC" columns="4" hide_empty="0" ]</div>
+<div><div class="woocommerce columns-4"><ul class="products columns-4">
+<li class="product-category product first">
+	</li>
+<li class="product-category product">
+	</li>
+<li class="product-category product">
+	</li>
+<li class="product-category product last">
+	</li>
+</ul>
+</div></div>
 </div>
 </div>
 </div>
@@ -87,15 +106,14 @@ post_date: 2018-04-06 10:02:41
 <div class="brz-wrapper css-6fvry1">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-1szh5xq">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-d-xs-flex css-1ob677i">
 <div class="brz-rich-text">
 <p class="brz-tp-heading1"><span class="brz-cp-color7">Check out Our Hair Styles</span></p>
-<p class="brz-tp-paragraph"><span style="color: #73777f; letter-spacing: 0px; background-color: initial; text-align: initial; word-spacing: normal; caret-color: auto;"> </span></p>
-<p class="brz-tp-paragraph"><span class="brz-cp-color7"> </span><span style="color: #73777f; background-color: initial;"> </span></p>
-
+<p class="brz-tp-paragraph"><span style="color: #73777f;letter-spacing: 0px;background-color: initial;text-align: initial"> </span></p>
+<p class="brz-tp-paragraph"><span class="brz-cp-color7"> </span><span style="color: #73777f;background-color: initial"> </span></p>
 </div>
 </div>
 </div>
@@ -104,40 +122,39 @@ post_date: 2018-04-06 10:02:41
 <div class="brz-row__container">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-i3a6sh">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-row css-1cad2o0">
 <div class="brz-columns css-19rf22h">
 <div class="brz-bg brz-d-xs-flex css-lqtvr5">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-row__container">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-i3a6sh">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-row css-10jdpoz">
 <div class="brz-columns css-1ivqk4u">
 <div class="brz-bg brz-d-xs-flex css-lqtvr5">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-wrapper css-6fvry1">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-1szh5xq">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-d-xs-flex css-1ob677i">
 <div class="brz-rich-text">
 <p class="brz-tp-paragraph"><strong class="brz-cp-color7">Brazilian</strong><span class="brz-cp-color7"> </span></p>
 <p class="brz-tp-paragraph"><span class="brz-cp-color7">Smooth, thick. durable, down feelings, thick bottom. Color extremely well defined.</span></p>
-
 </div>
 </div>
 </div>
@@ -149,19 +166,18 @@ post_date: 2018-04-06 10:02:41
 <div class="brz-columns css-1ivqk4u">
 <div class="brz-bg brz-d-xs-flex css-lqtvr5">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-wrapper css-6fvry1">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-1szh5xq">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-d-xs-flex css-1ob677i">
 <div class="brz-rich-text">
 <p class="brz-tp-paragraph"><strong class="brz-cp-color7">Indian</strong><span class="brz-cp-color7">-Very high quality, light, airy, lots of bounce, and it naturally waves up when wet.</span></p>
-
 </div>
 </div>
 </div>
@@ -173,19 +189,18 @@ post_date: 2018-04-06 10:02:41
 <div class="brz-columns css-1ivqk4u">
 <div class="brz-bg brz-d-xs-flex css-lqtvr5">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-wrapper css-6fvry1">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-1szh5xq">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-d-xs-flex css-1ob677i">
 <div class="brz-rich-text">
 <p class="brz-tp-paragraph"><strong class="brz-cp-color7">Malaysian</strong><span class="brz-cp-color7"> and versatile, takes curls very well. Extremely soft &amp; silkier than Brazilian hair.</span></p>
-
 </div>
 </div>
 </div>
@@ -197,19 +212,18 @@ post_date: 2018-04-06 10:02:41
 <div class="brz-columns css-1ivqk4u">
 <div class="brz-bg brz-d-xs-flex css-lqtvr5">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-wrapper css-6fvry1">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-1szh5xq">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-d-xs-flex css-1ob677i">
 <div class="brz-rich-text">
 <p class="brz-tp-paragraph"><strong class="brz-cp-color7">Peruvian-</strong><span class="brz-cp-color7">Durable and versatile, takes curls very well. Extremely soft &amp; silkier than Brazilian hair.</span></p>
-
 </div>
 </div>
 </div>
@@ -235,14 +249,15 @@ post_date: 2018-04-06 10:02:41
 </div>
 </div>
 </div>
-</section><section id="nnpyahqguv" class="brz-section css-lfbrd7">
+</section>
+<section id="nnpyahqguv" class="brz-section css-lfbrd7">
 <div class="brz-section__items">
 <div class="brz-section__content">
 <div class="brz-bg css-3zxwv">
 <div class="brz-bg-media">
-<div class="brz-bg-video" data-mute="on" data-autoplay="on"><iframe class="brz-iframe brz-bg-video__cover" style="display: none;"></iframe></div>
-<div class="brz-bg-map"><iframe class="brz-iframe brz-bg-map__cover" style="display: none;"></iframe></div>
-<div class="brz-bg-color"></div>
+<div class="brz-bg-video"></div>
+<div class="brz-bg-map"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-container__wrap css-ho9erg">
@@ -250,12 +265,12 @@ post_date: 2018-04-06 10:02:41
 <div class="brz-wrapper css-6fvry1">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-x43dbv">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-d-xs-flex css-1ob677i">
 <div class="brz-rich-text">
-<h3 class="brz-text-lg-center brz-tp-paragraph"><span class="brz-cp-color3" style="background-color: transparent;">CONTACT US</span></h3>
+<h3 class="brz-text-lg-center brz-tp-paragraph"><span class="brz-cp-color3" style="background-color: transparent">CONTACT US</span></h3>
 </div>
 </div>
 </div>
@@ -264,12 +279,12 @@ post_date: 2018-04-06 10:02:41
 <div class="brz-wrapper css-6fvry1">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-1szh5xq">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-d-xs-flex css-1ob677i">
 <div class="brz-rich-text">
-<h2 class="brz-tp-heading2 brz-text-lg-center"><span class="brz-cp-color2" style="opacity: 1;">Have a question</span></h2>
+<h2 class="brz-tp-heading2 brz-text-lg-center"><span class="brz-cp-color2">Have a question</span></h2>
 </div>
 </div>
 </div>
@@ -278,11 +293,11 @@ post_date: 2018-04-06 10:02:41
 <div class="brz-wrapper css-b75mnq">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-1trd8bt">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-d-xs-flex css-1ob677i">
-<div class="brz-spacer css-1tb6bj5"></div>
+<div class="brz-spacer css-1tb6bj5"> </div>
 </div>
 </div>
 </div>
@@ -290,56 +305,65 @@ post_date: 2018-04-06 10:02:41
 <div class="brz-wrapper css-6fvry1">
 <div class="brz-bg brz-d-xs-flex brz-flex-xs-wrap css-1szh5xq">
 <div class="brz-bg-media">
-<div class="brz-bg-color"></div>
+<div class="brz-bg-color"> </div>
 </div>
 <div class="brz-bg-content">
 <div class="brz-d-xs-flex css-1ob677i">
-<div class="brz-form css-m3gvww"><form action="http://opusonehair.com/wp-admin/admin-ajax.php?action=brizy_submit_form" novalidate="" data-form-id="lbrlcbfwil" data-project-language="7" data-success="" data-error="" data-redirect="">
+<div class="brz-form css-m3gvww">
+<form action="http://opusonehair.com/wp-admin/admin-ajax.php?action=brizy_submit_form">
 <div class="brz-form__fields css-a5cfed">
-<div class="brz-form__item css-1rc0l2d"><input id="phwrhelwyq" class="brz-input brz-form__field" name="phwrhelwyq" type="text" placeholder="Name" data-type="Text" data-label="Name" /></div>
-<div class="brz-form__item css-1rc0l2d"><input id="abbcgwlftw" class="brz-input brz-form__field" name="abbcgwlftw" pattern="^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+$" type="email" placeholder="Email" data-type="Email" data-label="Email" /></div>
+<div class="brz-form__item css-1rc0l2d"></div>
+<div class="brz-form__item css-1rc0l2d"></div>
 <div class="brz-form__item css-i9dv9s">
-<div data-label="Project">
+<div>
 <div class="brz-control__select">
 <div class="brz-control__select-current">
 <div class="brz-control__select-option" title="">Project</div>
-&nbsp;
-
+<p> </p>
 </div>
 <div class="brz-control__select-options">
-<div class="brz-ed-scroll-pane" style="position: relative; height: 208px;">
-<div class="brz-ed-scroll-inner" style="height: 208px;">
+<div class="brz-ed-scroll-pane" style="height: 208px">
+<div class="brz-ed-scroll-inner" style="height: 208px">
 <div class="brz-control__select-option" title="0">Project</div>
 <div class="brz-control__select-option" title="1">Freelance</div>
 <div class="brz-control__select-option" title="2">Business</div>
 <div class="brz-control__select-option" title="3">Affiliate</div>
 </div>
 <div class="brz-ed-wide-track">
-<div class="brz-ed-wide-thumb"></div>
+<div class="brz-ed-wide-thumb"> </div>
 </div>
 <div class="brz-ed-tall-track">
-<div class="brz-ed-tall-thumb"></div>
+<div class="brz-ed-tall-thumb"> </div>
 </div>
 </div>
 </div>
-<input id="olagaqxvth" name="olagaqxvth" type="hidden" placeholder="Project" data-type="Select" data-label="Project" />
+<p></p>
+</div>
+</div>
+</div>
+<div class="brz-form__item css-9591s6"><textarea id="ieqtmhzdpd" class="brz-textarea brz-form__field" name="ieqtmhzdpd"></textarea></div>
+</div>
+<p><button class="brz-btn css-37phs0"><span class="brz-span brz-text__editor">SEND MESSAGE</span></button></p>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+	</div>
+</div>		</div>
+	</div>
+</div></div>
 
-</div>
-</div>
-</div>
-<div class="brz-form__item css-9591s6"><textarea id="ieqtmhzdpd" class="brz-textarea brz-form__field" name="ieqtmhzdpd" placeholder="Message" data-type="Paragraph" data-label="Message"></textarea></div>
-</div>
-<button class="brz-btn css-37phs0"><span class="brz-span brz-text__editor" contenteditable="false">SEND MESSAGE</span></button>
+	</div>
+	</section>
 
-</form></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section></div>
+<!-- 5796d319ef0bed92ab61bcf446de0baf -->
